@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@bonfida/spl-name-service": "^2.4.0",
     "@solana/web3.js": "^1.91.2",
     "esrun": "^3.2.26",
     "typescript": "^5.4.3"
